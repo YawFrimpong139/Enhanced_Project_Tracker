@@ -1,7 +1,7 @@
 package com.codewithzea.myprojecttracker.audit;
 
 
-import lombok.RequiredArgsConstructor;
+import lombok.*;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
